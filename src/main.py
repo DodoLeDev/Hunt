@@ -33,7 +33,7 @@ class HuntApplication(Adw.Application):
                          flags=Gio.ApplicationFlags.DEFAULT_FLAGS)
         self.create_action('quit', lambda *_: self.quit(), ['<primary>q'])
         self.create_action('about', self.on_about_action)
-        self.create_action('help', self.help_action, ['<primary>h'])
+        self.create_action('help', self.help_action, ['F1'])
 
     def do_activate(self):
         win = self.props.active_window

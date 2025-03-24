@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="mode-timed">
+ <info>
+  <link type="guide" xref="index#gamemodes"/>
+  <desc>You have a limited time to find all the words</desc>
+ </info>
+ <title>Timed Mode</title>
+ <p>Content goes here</p>
+</page>

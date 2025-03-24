@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="how-to-play">
+ <info>
+  <link type="guide" xref="index#general"/>
+  <desc>How to play with <app>Hunt</app></desc>
+ </info>
+ <title>How to play</title>
+ <p><app>App link</app> Paragraph.</p>
+ <p>Create a <gui>GUI button</gui> and add <link xref="gamemodes#mode-timed"/>.</p>
+ <note>
+  <p>This is a note.</p>
+ </note>
+</page>

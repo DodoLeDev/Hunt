@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="mode-normal">
+ <info>
+  <link type="guide" xref="index#gamemodes"/>
+  <desc>Play a game without time</desc>
+ </info>
+ <title>Normal Mode</title>
+ <p>Content goes here</p>
+</page>

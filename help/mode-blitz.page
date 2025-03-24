@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="mode-blitz">
+ <info>
+  <link type="guide" xref="index#gamemodes"/>
+  <desc>Find all the words, one by one and in time</desc>
+ </info>
+ <title>Timed Mode</title>
+ <p>Content goes here</p>
+</page>
