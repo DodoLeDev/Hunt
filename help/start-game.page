@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<page xmlns="http://projectmallard.org/1.0/" type="topic" id="how-to-play">
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="start-game">
  <info>
   <link type="guide" xref="index#general"/>
   <link type="seealso" xref="custom-game"/>
   <link type="seealso" xref="how-to-play"/>
 
-  <desc>How to play with <app>Hunt</app></desc>
+  <desc>Learn how to get started with <app>Hunt</app></desc>
  </info>
- <title>How to play</title>
+ <title>Get started</title>
 
- <p><app>Hunt</app> is a word search where you have to find scrabled words in a grid of letters.</p>
+ <p>This page will guide you to start a game in <app>Hunt</app></p>
 
  <section>
     <title>Select a gamemode</title>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" type="topic" id="custom-game">
+ <info>
+  <link type="guide" xref="index#general"/>
+  <desc>Configure a game according to your own preferences</desc>
+ </info>
+ <title>Play with custom rules</title>
+
+ <p><app>Hunt</app> is a word search where you have to find scrabled words in a grid of letters.</p>
+
+ <section>
+   <title>Start a game</title>
+
+   <p>In order to start a game, you have to select a grid size among the avaliable sizes:</p>
+
+<media type="image" src="figures/app-main-mobile.png" style="floatend floatright" mime="image/png" />
+
+   <terms>
+   <item>
+    <title><em style="strong">8 × 8 board</em></title>
+    <p>5 words to find, and limited to 30 seconds if in timed or blitz mode</p>
+   </item>
+   <item>
+    <title><em style="strong">12 × 12 board</em></title>
+    <p>8 words to find, and limited to 60 seconds if in timed or blitz mode</p>
+   </item>
+   <item>
+    <title><em style="strong">16 × 16 board</em></title>
+    <p>10 words to find, and limited to 80 seconds if in timed or blitz mode</p>
+   </item>
+   </terms>
+ </section>
+
+ <p>Create a <gui>GUI button</gui> and add <link xref="gamemodes#mode-timed"/>.</p>
+ <note>
+  <p>This is a note.</p>
+ </note>
+
+</page>
